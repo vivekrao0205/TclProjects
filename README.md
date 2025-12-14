@@ -1,5 +1,5 @@
 # TclProjects
-## 1 - PassGen
+## 1 PassGen
 
 PassGen is a simple and lightweight **password generator built using Tcl scripting language**.  
 It creates secure, random passwords using uppercase, lowercase, numbers, and special characters.
@@ -16,7 +16,7 @@ It creates secure, random passwords using uppercase, lowercase, numbers, and spe
 Enter password length: 12
 Generated Password: kD@9t#L2sP1!
 
-## RC Low-Pass Filter Calculator
+## 2 RC Low-Pass Filter Calculator
 
 A simple command-line Tcl script to calculate the **cutoff frequency (fc)** of an RC Low-Pass Filter.
 An RC Low-Pass Filter allows low-frequency signals to pass while attenuating high-frequency signals.  
